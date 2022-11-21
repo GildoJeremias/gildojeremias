@@ -1,6 +1,6 @@
 ## Hi I´am Gildo Jeremias
 
-- 🐱‍👤 Today work with front-end.
+- 🐱‍👤 Today work with Frontend.
 - 🐱‍🏍 Studying JavaScript and Python
 - 📫 contact me gildojeremias6@gmail.com
 
